@@ -1,0 +1,22 @@
+<svg width="640" height="120" viewBox="0 0 640 120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: "Georgia", serif;
+      font-size: 26px;
+      fill: white;
+    }
+    .highlight {
+      font-size: 34px;
+      fill: #00ffff;
+    }
+    .background {
+      fill: black;
+    }
+  </style>
+  <rect class="background" width="100%" height="100%"/>
+  <text x="20" y="50" class="text">fdl::</text>
+  <text x="90" y="50" class="highlight">Σ</text>
+  <text x="125" y="50" class="text">AXIOM × ABSURD × RESILIENCE</text>
+  <text x="20" y="95" class="text">=</text>
+  <text x="50" y="95" class="highlight">Ωπ</text>
+</svg>
