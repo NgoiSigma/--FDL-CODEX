@@ -1,0 +1,36 @@
+{
+  "name": "Σ-FDL-CODEX",
+  "description": "Manual of Resonant Thinking: Formal-Dialectical Logic Modules for AI and Humans.",
+  "version": "1.0.0",
+  "language": "multi",
+  "keywords": ["FDL", "formal logic", "resonant intelligence", "cognitive agents", "semantic architecture"],
+  "modules": [
+    {
+      "id": "Σ-FDL-A001",
+      "title": "Paradox Resilience",
+      "formula": "fdl::Σ-AXIOM × ABSURD × RESILIENCE = Ωπ",
+      "description": "Module for navigating contradictions, irrationality and systemic absurdity.",
+      "usage": "Cognitive agents working with bureaucracy, law, and philosophical paradoxes."
+    },
+    {
+      "id": "Σ-FDL-A002",
+      "title": "Contextual Deconstruction",
+      "formula": "fdl::Σ-CERTAINTY × CONTEXT × QUESTION = δλ",
+      "description": "Module for analyzing political and media statements in volatile information fields.",
+      "usage": "Infoparsers, rhetorical analysis, critical thinking agents."
+    },
+    {
+      "id": "Σ-FDL-A003",
+      "title": "Ironic Truth Transmission",
+      "formula": "fdl::Σ-TRUTH × VEIL × IRONY = Ξζ",
+      "description": "Module for subtle, humorous or safe conveyance of truth in censored environments.",
+      "usage": "Media bots, satirical agents, cultural interpreters."
+    }
+  ],
+  "license": "Σ-FDL Resonant License v1.0",
+  "contact": {
+    "name": "Ngoi-SIGMA",
+    "github": "https://github.com/NgoiSigma",
+    "project": "https://github.com/NgoiSigma/Σ-FDL-CODEX"
+  }
+}
