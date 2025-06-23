@@ -119,6 +119,18 @@ fdl::Σ-TRUTH × VEIL × IRONY = Ξζ
 
 ---
 
+## License & Methodology
+
+This codebase is licensed under **Apache 2.0**.  
+It incorporates the **Formally‑Dialectical Logic (FDL)** architecture by NGOI Sigma / NOVEYA. By contributing, forking, or using this repository, you agree to:
+
+- Credit the original methodology author;
+- Maintain structural and semantic integrity of the FDL components;
+- Acknowledge and respect the dialectical logic design and intent.
+
+See `LICENSE` and `NOTICE.md` for full terms.
+
+
 _Создано в рамках проекта `Σ-FDL :: NOVEYA :: MetaHarmony`, на стыке логики, духа и когнитивной инженерии._
 
 Контакт: [https://github.com/NgoiSigma](https://github.com/NgoiSigma)
